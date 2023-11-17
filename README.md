@@ -7,6 +7,7 @@ Edit `C:\Windows\System32\drivers\etc\hosts` and add these lines:
 192.168.178.221 jellyfin.sheehan.nz
 192.168.178.222 jenkins.sheehan.nz
 192.168.178.223 gitea.sheehan.nz
+192.168.178.224 transmission.sheehan.nz
 192.168.178.230 ganymede.sheehan.nz
 192.168.178.231 jenkins-agent-alpha.sheehan.nz
 ```
@@ -20,6 +21,7 @@ Edit `/etc/hosts` and add these lines:
 192.168.178.221 jellyfin.sheehan.nz
 192.168.178.222 jenkins.sheehan.nz
 192.168.178.223 gitea.sheehan.nz
+192.168.178.224 transmission.sheehan.nz
 192.168.178.230 ganymede.sheehan.nz
 192.168.178.231 jenkins-agent-alpha.sheehan.nz
 ```
@@ -35,6 +37,7 @@ networking.extraHosts =
   192.168.178.221 jellyfin.sheehan.nz
   192.168.178.222 jenkins.sheehan.nz
   192.168.178.223 gitea.sheehan.nz
+  192.168.178.224 transmission.sheehan.nz
   192.168.178.230 ganymede.sheehan.nz
   192.168.178.231 jenkins-agent-alpha.sheehan.nz
   '';
